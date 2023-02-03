@@ -39,10 +39,13 @@
 .voice-search-icon{
     height: 25px;
     width: 25px;
-    border-radius: 12px;
+   
+}
+.voice-search-button{
+    border-radius: 25px;
+    background-color:rgb(236, 228, 228);
     border: none;
-    
-
+    margin-left: 10px;
 }
 
 .search-bar{
@@ -54,6 +57,7 @@
     border-style: solid;
     box-shadow: inset 1px 2px 3px
      rgba(0, 0, 0, 0.05); 
+     width: 0;
 
 }
 
@@ -62,7 +66,31 @@
     font-size: 20px
 }
 .right-section{
-    background-color: lightblue;
-    width: 200px;
+    
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 20px;
+    flex-shrink: 0;
+
 
 }  
+
+.upload-icon{
+    height: 25px;
+}
+
+
+.youtube-apps-icon{
+    height: 25px;
+}
+
+.notification-icon{
+    height: 25px;
+}
+  
+.current-user-picture{
+    height: 25px;
+    border-radius: 13px;
+}
