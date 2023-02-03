@@ -49,3 +49,12 @@
     column-gap: 15px;
     row-gap: 40px;
 }
+
+.video-time{
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 10px;
+
+
+}
