@@ -53,8 +53,9 @@
 .video-time{
     background-color: black;
     color: white;
-    position: relative;
+    position: static;
     bottom: 10px;
+    width: 50px;
 
 
 }
