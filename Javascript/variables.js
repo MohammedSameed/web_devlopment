@@ -13,3 +13,8 @@ console.log(FirstName);
 
 FirstName="moheed";
 console.log(FirstName)
+
+
+
+let secondname = "sameed";
+console.log(secondname);
