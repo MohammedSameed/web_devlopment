@@ -15,8 +15,14 @@ console.log(firstname.toUpperCase());
 
 let age = 22;
 
-let secondname="mohammed";
+let thirdname="mohammed";
 
 console.log(typeof age);
 
-console.log(typeof secondname);
+console.log(typeof thirdname);
+
+
+let string1 = "sameed";
+let string2 = "mohammed";
+let newstring2= string1+string2;
+console.log(newstring2);
