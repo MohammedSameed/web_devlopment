@@ -12,7 +12,8 @@ console.log(FirstName);
 //change the variable later
 
 FirstName="moheed";
-console.log(FirstName)
+console.log(FirstName);
+
 
 
 
