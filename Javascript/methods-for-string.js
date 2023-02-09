@@ -27,6 +27,8 @@ let string2 = "mohammed";
 let newstring2= string1+string2;
 console.log(newstring2);
 
-let mystr= +"20";
 
-console.log(typeof mystr);
+let myage=20;
+let myname="sameed";
+
+let aboutme="my name is "+ myname + "my age is" + myage;
