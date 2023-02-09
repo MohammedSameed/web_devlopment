@@ -26,3 +26,7 @@ let string1 = "sameed";
 let string2 = "mohammed";
 let newstring2= string1+string2;
 console.log(newstring2);
+
+let mystr= +"20";
+
+console.log(typeof mystr);
