@@ -35,3 +35,8 @@ let aboutme="my name is "+ myname + "my age is" + myage;
 
 let bignumber = BigInt(7125486528436276371);
 console.log(bignumber);
+
+
+let m =10;
+let n = 7;
+console.log(n<m);
