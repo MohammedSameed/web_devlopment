@@ -32,3 +32,6 @@ let myage=20;
 let myname="sameed";
 
 let aboutme="my name is "+ myname + "my age is" + myage;
+
+let bignumber = BigInt(7125486528436276371);
+console.log(bignumber);

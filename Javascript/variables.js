@@ -20,6 +20,3 @@ console.log(FirstName);
 let secondname = "sameed";
 console.log(secondname);
 
-let mystr= +"20";
-
-console.log(typeof mystr);
