@@ -7,3 +7,13 @@ if(age>18){
 else{
     console.log("user can play mario");
 }
+
+
+let num =2;
+
+if(num%2==0){
+    console.log("even");
+}
+else{
+    console.log("odd");
+}
