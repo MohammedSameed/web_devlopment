@@ -1,4 +1,4 @@
-let age = 17;
+//let age = 17;
 
 if(age>18){
     console.log("user can play");
@@ -16,4 +16,12 @@ if(num%2==0){
 }
 else{
     console.log("odd");
+}
+
+
+let firstname = "sameed";
+let age = 22;
+
+if (firstname[0]=="s" && age>18){
+    console.log("name start with s and above 18")
 }
