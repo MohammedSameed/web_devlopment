@@ -17,8 +17,6 @@ if(num%2==0){
 else{
     console.log("odd");
 }
-
-
 let firstname = "sameed";
 let age = 22;
 
