@@ -6,16 +6,11 @@
 var FirstName="Sameed";
 
 //used the variable later
-
 console.log(FirstName);
 
 //change the variable later
-
 FirstName="moheed";
 console.log(FirstName);
-
-
-
 
 let secondname = "sameed";
 console.log(secondname);
