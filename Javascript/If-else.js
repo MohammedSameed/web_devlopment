@@ -4,7 +4,7 @@ if(age>18){
     console.log("user can play");
 }
 else{
-    console.log("user can play mario");
+    console.log("user can play mario");  
 }
 
 let num =2;
