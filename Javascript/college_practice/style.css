@@ -1,0 +1,30 @@
+.name{
+    color:white;
+    background-color: black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.text{
+    color: red;
+}
+
+.roll_no{
+    color:darkblue;
+    background-color: lightblue;
+    margin-right: 150px;
+}
+
+.headline{
+    margin:500px;
+    
+}
+.content{
+    margin-left:500px;
+    margin-right: 550px;
+
+}
+.review{
+      background-color: lightblue;
+    }
+
