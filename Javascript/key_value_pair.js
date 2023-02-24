@@ -6,4 +6,4 @@ const person = {
 
 }
 person.gender = "male";
-console.log(person);
+console.log(person); 
