@@ -139,7 +139,7 @@ return acc ;
 },0)
 console.log(total);
 
-//find
+//find the thing
 
 const users = [{
     name : "sameed",
