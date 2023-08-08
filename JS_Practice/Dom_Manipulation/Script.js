@@ -162,50 +162,55 @@
 //     }
 // });
 
-function dispalyImages(photos){
-    console.log(photos )
-}
+// function dispalyImages(photos){
+//     console.log(photos )
+// }
 
-const root = document.querySelector("#root");
-const button = document.querySelector("button")
+// const root = document.querySelector("#root");
+// const button = document.querySelector("button")
 
-function createItem(){
-    const card =  document.createElement("div");
-card.classList.add("card");
-//photo
+// function createItem(){
+//     const card =  document.createElement("div");
+// card.classList.add("card");
+// //photo
 
-const photo = document.createElemen("img");
-photo.src= itemthumbnailUrl;
+// const photo = document.createElemen("img");
+// photo.src= itemthumbnailUrl;
 
-//tilte
-const title  = document.createElement("h4");
-title.innerHTML = item.title;
-card.appendChild(photo);
-card.appendChild(title);
-root.appendChild(card);
-
-
-}
-
-function dispalyImages (items){
-    photos.foreach (function(item){
-        createItem(item );
-
-    })
-
-} 
+// //tilte
+// const title  = document.createElement("h4");
+// title.innerHTML = item.title;
+// card.appendChild(photo);
+// card.appendChild(title);
+// root.appendChild(card);
 
 
+// }
+
+// function dispalyImages (items){
+//     photos.foreach (function(item){
+//         createItem(item );
+
+//     })
+
+// } 
 
 
 
 
-button.addEventListener("click" , function(){
-    fetch("https://jsonplaceholder.typicode.com/albums/1/photos")
-.then((res)=>res.json())
-.then((items)=>{
-    dispalyImages(items);
-}); 
+
+
+// button.addEventListener("click" , function(){
+//     fetch("https://jsonplaceholder.typicode.com/albums/1/photos")
+// .then((res)=>res.json())
+// .then((items)=>{
+//     dispalyImages(items);
+// }); 
  
-})
+// })
+
+
+
+
+
 
